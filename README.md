@@ -9,4 +9,4 @@ Funkcjonalności w wersji v1.0:
 
 v.1.1
 - [x] zwiększenie limitu do 50 lat bez ostrzeżenia
-- [ ] lepsza obsługa osób j/w
+- [x] lepsza obsługa osób j/w
